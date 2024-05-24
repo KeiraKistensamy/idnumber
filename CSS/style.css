@@ -1,0 +1,26 @@
+#idForm {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background-color: #f0f0f0;
+    border: 5px solid black;
+}
+
+#id-number{
+    display: grid;
+    margin: 20px;
+    width: 50vh;
+    height: 5vh;
+    box-shadow: 1px 1px black;
+}
+
+#button {
+    width: 40vh;
+    height: 4vh;
+    box-shadow: 1px 1px black;
+    /* &:hover {
+        background-color: ;
+    } */
+}
